@@ -1,0 +1,90 @@
+Name: vxvbg
+Worker: Hour Salary Worker
+id: 10
+Average Salary: 1678976.0
+
+
+Name: fgbfg
+Worker: Hour Salary Worker
+id: 5
+Average Salary: 179712.0
+
+
+Name: qwddopo
+Worker: Hour Salary Worker
+id: 10011
+Average Salary: 122803.2
+
+
+Name: kgjmumkg
+Worker: Hour Salary Worker
+id: 3
+Average Salary: 114982.40000000001
+
+
+Name: dfhjffj
+Worker: Fixed Salary Worker
+id :2
+Average Salary: 89020.0
+
+
+Name: dfgdfgcv
+Worker: Fixed Salary Worker
+id :8
+Average Salary: 19999.0
+
+
+Name: mjmuynh
+Worker: Fixed Salary Worker
+id :9
+Average Salary: 19997.0
+
+
+Name: bghnhg
+Worker: Fixed Salary Worker
+id :6
+Average Salary: 19640.0
+
+
+Name: dfbfggf
+Worker: Hour Salary Worker
+id: 7
+Average Salary: 18304.0
+
+
+Name: sdsewhn
+Worker: Fixed Salary Worker
+id :12
+Average Salary: 15044.0
+
+
+Name: mkkujhtgb
+Worker: Fixed Salary Worker
+id :13
+Average Salary: 12008.0
+
+
+Name: fdsgd
+Worker: Fixed Salary Worker
+id :1
+Average Salary: 10900.0
+
+
+Name: qdqdqdsdf
+Worker: Hour Salary Worker
+id: 4
+Average Salary: 1497.6000000000001
+
+
+Name: ertyun
+Worker: Hour Salary Worker
+id: 14
+Average Salary: 665.6
+
+
+Name: dvcvbhy
+Worker: Fixed Salary Worker
+id :11
+Average Salary: 1.0
+
+

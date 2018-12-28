@@ -1,0 +1,75 @@
+Worker:
+Name: fdsgd
+id: 1
+Type: FixedSalary
+Salary: 10900.0
+Worker:
+Name: dfhjffj
+id: 2
+Type: FixedSalary
+Salary: 89020.0
+Worker:
+Name: kgjmumkg
+id: 3
+Type: HourSalary
+Salary: 691.0
+Worker:
+Name: qdqdqdsdf
+id: 4
+Type: HourSalary
+Salary: 9.0
+Worker:
+Name: fgbfg
+id: 5
+Type: HourSalary
+Salary: 1080.0
+Worker:
+Name: bghnhg
+id: 6
+Type: FixedSalary
+Salary: 19640.0
+Worker:
+Name: dfbfggf
+id: 7
+Type: HourSalary
+Salary: 110.0
+Worker:
+Name: dfgdfgcv
+id: 8
+Type: FixedSalary
+Salary: 19999.0
+Worker:
+Name: mjmuynh
+id: 9
+Type: FixedSalary
+Salary: 19997.0
+Worker:
+Name: vxvbg
+id: 10
+Type: HourSalary
+Salary: 10090.0
+Worker:
+Name: dvcvbhy
+id: 11
+Type: FixedSalary
+Salary: 1.0
+Worker:
+Name: qwddopo
+id: 10011
+Type: HourSalary
+Salary: 738.0
+Worker:
+Name: sdsewhn
+id: 12
+Type: FixedSalary
+Salary: 15044.0
+Worker:
+Name: mkkujhtgb
+id: 13
+Type: FixedSalary
+Salary: 12008.0
+Worker:
+Name: ertyun
+id: 14
+Type: HourSalary
+Salary: 4.0
